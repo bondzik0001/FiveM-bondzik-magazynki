@@ -15,7 +15,7 @@ Magazynek do Snajperek
 - Jak wgrać skrypt
 
 1. Pobierasz pliki na swój komputer i wrzucasz katalog "[bondzik-magazynki]" do katalogu "resources" na serwerze.
-2. Wpisujesz do swojego pliku .CFG linikę "start [bondzik-magazynki]" lub "ensure [bondzik-magazynki]".
+2. Wpisujesz do swojego pliku .CFG linijkę "start [bondzik-magazynki]" lub "ensure [bondzik-magazynki]".
 3. Wchodzisz do PHPmyAdmin
 4. Wrzucasz plik "Bondzyk-Magazynki-Baza.sql" do swojej bazy danych.
 5. Uruchamiasz ponownie serwer
