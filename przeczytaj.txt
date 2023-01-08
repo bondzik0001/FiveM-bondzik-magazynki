@@ -1,0 +1,31 @@
+#############################
+#   Magazynki by Bondzik    #
+#   discord.gg/nmdrASVrpC   #
+#############################
+
+- O skrypcie:
+
+Prosty skrypt wprowadzający 5 magazynków do różnych typów broni:
+Magazynek do Pistoletów
+Magazynek do SMG
+Magazynek do Karabinów
+Magazynek do Shotgunów
+Magazynek do Snajperek
+
+- Jak wgrać skrypt
+
+1. Pobierasz pliki na swój komputer i wrzucasz katalog "[bondzik-magazynki]" do katalogu "resources" na serwerze.
+2. Wpisujesz do swojego pliku .CFG linikę "start [bondzik-magazynki]" lub "ensure [bondzik-magazynki]".
+3. Wchodzisz do PHPmyAdmin
+4. Wrzucasz plik "Bondzyk-Magazynki-Baza.sql" do swojej bazy danych.
+5. Uruchamiasz ponownie serwer
+5. Cieszysz się skryptem na serwerze
+
+(miło będzie jak wejdziesz na mojego dc: https://discord.gg/nmdrASVrpC :) )
+
+#############################
+#   Magazynki by Bondzik    #
+#   discord.gg/nmdrASVrpC   #
+#############################
+
+
